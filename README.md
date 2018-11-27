@@ -1,4 +1,4 @@
-# @joaofnds
+# [@joaofnds](https://github.com/joaofnds)
 - https://www.nerdstickers.com.br/todos/docker-machine/
 - https://www.nerdstickers.com.br/todos/stranger-things/
 - https://www.nerdstickers.com.br/todos/shibe-doge-face/
@@ -16,7 +16,7 @@
 - https://www.nerdstickers.com.br/todos/ruby/
 - https://www.nerdstickers.com.br/todos/slack/
 
-# @ghsmaniotto
+# [@ghsmaniotto](https://github.com/ghsmaniotto)
 - https://www.nerdstickers.com.br/todos/dart/
 - https://www.nerdstickers.com.br/todos/flutter/
 - https://www.nerdstickers.com.br/todos/python/
@@ -52,14 +52,14 @@
 - https://www.nerdstickers.com.br/todos/flutter/
 - https://www.nerdstickers.com.br/todos/vscode/
 
-# @camilaperes
+# [@camilaperes](https://github.com/camilaperes)
 - https://www.nerdstickers.com.br/todos/m-maravilha-ii/
 - https://www.nerdstickers.com.br/todos/tux-linux/
 - https://www.nerdstickers.com.br/todos/linux-mint/
 - https://www.nerdstickers.com.br/todos/poke-pixel-i/
 - https://www.nerdstickers.com.br/todos/poke-pixel-iii/ 
 
-# @guiwb
+# [@guiwb](https://github.com/guiwb)
 - https://www.nerdstickers.com.br/todos/heisenberg-ii/
 - https://www.nerdstickers.com.br/todos/cs-go/
 - https://www.nerdstickers.com.br/todos/laravel-ii/
