@@ -72,3 +72,10 @@
 - https://www.nerdstickers.com.br/todos/php/
 - https://www.nerdstickers.com.br/todos/slack/
 - https://www.nerdstickers.com.br/todos/javascript/
+
+# [@thefuga](https://github.com/thefuga)
+- https://www.nerdstickers.com.br/todos/c/
+- https://www.nerdstickers.com.br/todos/python/
+- https://www.nerdstickers.com.br/todos/linux-freedom/
+- https://www.nerdstickers.com.br/todos/docker-i/
+- https://www.nerdstickers.com.br/todos/ruby/
