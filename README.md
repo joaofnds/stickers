@@ -79,3 +79,6 @@
 - https://www.nerdstickers.com.br/todos/linux-freedom/
 - https://www.nerdstickers.com.br/todos/docker-i/
 - https://www.nerdstickers.com.br/todos/ruby/
+
+# [@jschneiders](https://github.com/jschneiders)
+- https://www.nerdstickers.com.br/todos/cats-tea/
